@@ -103,7 +103,17 @@ http://localhost:8501
 
 ## 📊 Dashboard Preview
 
-(Add screenshots of your dashboard here)
+---
+
+## 📊 Dashboard Preview
+
+<img src="https://github.com/user-attachments/assets/04543989-be0c-4209-8bf8-3b22fde7dc41" width="800"/>
+
+<img src="https://github.com/user-attachments/assets/7e426456-a349-41b6-a0fa-3632a2a1b485" width="800"/>
+
+<img src="https://github.com/user-attachments/assets/6ea5bd10-3de8-4fe4-8fa2-b5fb80ff0ad3" width="800"/>
+
+<img src="https://github.com/user-attachments/assets/35d07b32-5229-43bc-b650-f4213811929b" width="800"/>
 
 ---
 
