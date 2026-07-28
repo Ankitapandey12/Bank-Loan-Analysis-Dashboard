@@ -75,33 +75,42 @@ Bank Loan Analysis Dashboard
 
 ## ⚙️ Installation & Setup
 
-Clone the repository:
+### Clone the repository
 
 ```bash
-
 git clone <repository-link>
-
 cd Bank-Loan-Analysis-Dashboard
+```
 
+### Create virtual environment
+
+```bash
 python -m venv .venv
+```
+
+### Activate virtual environment
 
 For Windows:
 
+```bash
 .venv\Scripts\activate
+```
 
-Install required dependencies:
+### Install required dependencies
 
+```bash
 pip install -r requirement.txt
+```
 
-Run the Streamlit application:
+### Run the Streamlit application
 
+```bash
 streamlit run app.py
+```
 
-The dashboard will open in your browser at:
+The dashboard will open in your browser:
 
 http://localhost:8501
-
-## 📊 Dashboard Preview
 
 ---
 
@@ -124,6 +133,7 @@ http://localhost:8501
 - Compared income and loan amount relationships.
 - Generated meaningful insights from bank loan data.
 
+---
 
 ## 👩‍💻 Author
 
@@ -132,4 +142,5 @@ http://localhost:8501
 B.Tech Computer Science Engineering Student
 
 Skills:
+
 Python | Data Analytics | Streamlit | SQL | MERN Stack
