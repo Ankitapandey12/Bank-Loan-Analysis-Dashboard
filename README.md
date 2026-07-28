@@ -77,9 +77,11 @@ Bank Loan Analysis Dashboard
 ## ⚙️ Installation & Setup
 
 Clone the repository:
+
 ```bash
 git clone <repository-link>
 cd Bank-Loan-Analysis-Dashboard
+
 python -m venv .venv
 For Windows:
 
@@ -104,7 +106,7 @@ Uske baad README me next section add karna:
 
 ## 📊 Dashboard Preview
 
-(Add screenshots of your dashboard here)
+![Bank Loan Dashboard](images/Bank_loan_dashboard(1).png)
 
 ---
 
