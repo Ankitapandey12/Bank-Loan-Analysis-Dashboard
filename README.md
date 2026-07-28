@@ -73,63 +73,48 @@ Bank Loan Analysis Dashboard
 └── README.md
 
 
+---
+
 ## ⚙️ Installation & Setup
 
-Clone the repository:
+### Clone the repository
 
 ```bash
-
 git clone <repository-link>
-
 cd Bank-Loan-Analysis-Dashboard
-
+Create virtual environment
 python -m venv .venv
+Activate virtual environment
 
 For Windows:
 
 .venv\Scripts\activate
-
-Install required dependencies:
-
-pip install -r requirement.txt
-
-Run the Streamlit application:
-
+Install required dependencies
+pip install -r requirements.txt
+Run the Streamlit application
 streamlit run app.py
 
-The dashboard will open in your browser at:
+The dashboard will open in your browser:
 
 http://localhost:8501
 
-## 📊 Dashboard Preview
+📊 Dashboard Preview
 
----
+<img src="https://github.com/user-attachments/assets/04543989-be0c-4209-8bf8-3b22fde7dc41" width="800"/> <img src="https://github.com/user-attachments/assets/7e426456-a349-41b6-a0fa-3632a2a1b485" width="800"/> <img src="https://github.com/user-attachments/assets/6ea5bd10-3de8-4fe4-8fa2-b5fb80ff0ad3" width="800"/> <img src="https://github.com/user-attachments/assets/35d07b32-5229-43bc-b650-f4213811929b" width="800"/>
 
-## 📊 Dashboard Preview
+💡 Key Insights
+Analyzed loan application trends using interactive visualizations.
+Studied loan approval patterns based on customer details.
+Compared income and loan amount relationships.
+Generated meaningful insights from bank loan data.
+👩‍💻 Author
 
-<img src="https://github.com/user-attachments/assets/04543989-be0c-4209-8bf8-3b22fde7dc41" width="800"/>
-
-<img src="https://github.com/user-attachments/assets/7e426456-a349-41b6-a0fa-3632a2a1b485" width="800"/>
-
-<img src="https://github.com/user-attachments/assets/6ea5bd10-3de8-4fe4-8fa2-b5fb80ff0ad3" width="800"/>
-
-<img src="https://github.com/user-attachments/assets/35d07b32-5229-43bc-b650-f4213811929b" width="800"/>
-
----
-
-## 💡 Key Insights
-
-- Analyzed loan application trends using interactive visualizations.
-- Studied loan approval patterns based on customer details.
-- Compared income and loan amount relationships.
-- Generated meaningful insights from bank loan data.
-
-
-## 👩‍💻 Author
-
-**Ankita Pandey**
+Ankita Pandey
 
 B.Tech Computer Science Engineering Student
 
 Skills:
+
 Python | Data Analytics | Streamlit | SQL | MERN Stack
+
+
