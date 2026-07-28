@@ -72,17 +72,19 @@ Bank Loan Analysis Dashboard
 │
 └── README.md
 
----
 
 ## ⚙️ Installation & Setup
 
 Clone the repository:
 
 ```bash
+
 git clone <repository-link>
+
 cd Bank-Loan-Analysis-Dashboard
 
 python -m venv .venv
+
 For Windows:
 
 .venv\Scripts\activate
@@ -99,14 +101,9 @@ The dashboard will open in your browser at:
 
 http://localhost:8501
 
-Uske baad README me next section add karna:
-
-```markdown
----
-
 ## 📊 Dashboard Preview
 
-![Bank Loan Dashboard](images/Bank_loan_dashboard(1).png)
+(Add screenshots of your dashboard here)
 
 ---
 
@@ -117,7 +114,6 @@ Uske baad README me next section add karna:
 - Compared income and loan amount relationships.
 - Generated meaningful insights from bank loan data.
 
----
 
 ## 👩‍💻 Author
 
