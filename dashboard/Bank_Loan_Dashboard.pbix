@@ -1,0 +1,29 @@
+import streamlit as st
+import pandas as pd
+
+# Page configuration
+st.set_page_config(
+    page_title="Bank Loan Analysis Dashboard",
+    layout="wide"
+)
+
+# Title
+st.title("🏦 Bank Loan Analysis Dashboard")
+
+# Load dataset
+df = pd.read_csv("data/bank_loan.csv")
+
+# Dataset preview
+st.subheader("Dataset Preview")
+st.dataframe(df.head())
+
+# Basic information
+st.subheader("Dataset Information")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.metric("Total Records", len(df))
+
+with col2:
+    st.metric("Total Columns", len(df.columns))
