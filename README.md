@@ -82,17 +82,41 @@ Bank Loan Analysis Dashboard
 ```bash
 git clone <repository-link>
 cd Bank-Loan-Analysis-Dashboard
-Create virtual environment
+### Create virtual environment
+
+```bash
 python -m venv .venv
-Activate virtual environment
+```
+
+### Activate virtual environment
+
+```bash
+# macOS / Linux
+source .venv/bin/activate
+```
 
 For Windows:
 
+```bash
 .venv\Scripts\activate
-Install required dependencies
+```bash
+# Windows
+.venv\Scripts\activate
+```
+
+### Install required dependencies
+
+```bash
 pip install -r requirements.txt
-Run the Streamlit application
+```
+
+### Run the Streamlit application
+
+```bash
 streamlit run app.py
+```
+streamlit run app.py
+```
 
 The dashboard will open in your browser:
 
@@ -109,7 +133,9 @@ Compared income and loan amount relationships.
 Generated meaningful insights from bank loan data.
 👩‍💻 Author
 
-Ankita Pandey
+## 👩‍💻 Author
+
+**Ankita Pandey**
 
 B.Tech Computer Science Engineering Student
 
